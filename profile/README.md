@@ -1,7 +1,7 @@
 <a href="https://uni.opole.pl">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UniOpole-CS-Test/.github/refs/heads/main/Logo/LOGO_UO_ENG%20(12).svg">
-        <img alt="UniversityOfOpole" src="https://raw.githubusercontent.com/UniOpole-CS-Test/.github/refs/heads/main/Logo/LOGO_UO_ENG%20(2).svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/UniOpole-CS/.github/blob/main/Logo/LOGO_UO_ENG%20(12).svg">
+        <img alt="UniversityOfOpole" src="https://github.com/UniOpole-CS/.github/blob/main/Logo/LOGO_UO_ENG%20(2).svg">
     </picture>
 </a>
 
@@ -10,8 +10,7 @@
 [Contact](https://ii.wmfi.uni.opole.pl/kontakt/)<br>
 Institute of Computer Science - University Of Opole<br>
 pl. Oleska 48<br>
-45-052 Opole<br>
-Poland<br>
+45-052 Opole, Poland<br>
 E-mail: ii@uni.opole.pl
 
 #### Research teams<br>
